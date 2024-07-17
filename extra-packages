@@ -1,6 +1,6 @@
 bc
 bzip2
 dialog
-libegl1-mesa
-libgl1-mesa-glx
+libegl1
+libgl1
 libvte-2.91-common
