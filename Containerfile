@@ -1,4 +1,4 @@
-FROM quay.io/toolbx/ubuntu-toolbox:24.04 as obs-studio-portable
+FROM quay.io/toolbx/ubuntu-toolbox:23.10 as obs-studio-portable
 
 
 LABEL com.github.containers.toolbox="true" \
